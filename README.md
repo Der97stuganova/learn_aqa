@@ -1,6 +1,5 @@
 # learn_aqa
-Пет-проект для маркетплейса Ozon
-https://www.ozon.ru/
+Пет-проект для маркетплейса [Ozon](https://www.ozon.ru/)
 
 Язык программирования - **Java**
 
